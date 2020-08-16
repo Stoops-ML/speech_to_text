@@ -1,4 +1,4 @@
-# speech_to_text
+# Speech to text
 Automatic speech recognition (speech-to-text) in English
 
 This is a project in the Udacity Natural Language Processing course.
